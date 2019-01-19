@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/axios": "0.14.0",
     "@types/d3": "5.7.0",
-    "@types/luxon": "1.4.1",
+    "@types/luxon": "1.4.2",
     "@types/pixi.js": "4.8.6",
     "@types/uuid": "3.4.4",
     "axios": "0.18.0",
