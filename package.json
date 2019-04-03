@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/axios": "0.14.0",
-    "@types/d3": "5.7.1",
+    "@types/d3": "5.7.2",
     "@types/luxon": "1.12.0",
     "@types/pixi.js": "4.8.6",
     "@types/uuid": "3.4.4",
