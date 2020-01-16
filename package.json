@@ -18,7 +18,7 @@
     "d3": "5.15.0",
     "luxon": "1.21.3",
     "pixi.js": "4.8.7",
-    "uuid": "3.3.3",
+    "uuid": "3.4.0",
     "vue": "2.6.11",
     "vue-class-component": "7.2.2",
     "vue-property-decorator": "8.3.0",
