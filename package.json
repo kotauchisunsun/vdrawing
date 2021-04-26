@@ -26,7 +26,7 @@
     "vuex": "3.1.2"
   },
   "devDependencies": {
-    "@types/jest": "25.1.1",
+    "@types/jest": "26.0.23",
     "@vue/cli-plugin-babel": "4.1.2",
     "@vue/cli-plugin-typescript": "4.1.2",
     "@vue/cli-plugin-unit-jest": "4.1.2",
